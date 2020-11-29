@@ -3,7 +3,7 @@
 
 A simple ruby script to utilize PeerReach API. Experimental project. Use at your own risk.
 
-* Checkout PeerReach API (https://peerreach.com)
+* [Checkout PeerReach API](https://peerreach.com)
 
 Prerequisites:
 * rvm (rvm.io)
